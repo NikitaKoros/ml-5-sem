@@ -1,0 +1,6 @@
+{
+  "git.enabled": true,
+  "git.decorations.enabled": true,
+  "scm.diffDecorations": "all",
+  "git.autoRepositoryDetection": "subFolders"
+}
